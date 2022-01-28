@@ -12,7 +12,7 @@
     "lint": "eslint .",
     "migrate": "sequelize-cli db:migrate"
   },
-  "author": "Basar Buyukkahraman",
+  "author": "Leon Lishenga",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
